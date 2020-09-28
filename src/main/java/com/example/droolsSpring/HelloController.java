@@ -27,7 +27,6 @@ public class HelloController {
         return "Greetings from Spring Boot!";
     }
 
-    //@RequestMapping("/process")
     @PostMapping(value = "/process", consumes = {MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE}, produces = {MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE})
     public ResponseEntity<Loan> runProcess(@RequestBody Loan loan) {
         String groupID = "com.myspace";

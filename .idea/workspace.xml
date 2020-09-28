@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e70e9b10-c569-4487-bf94-427351846ed8" name="Default Changelist" comment="" />
+    <list default="true" id="e70e9b10-c569-4487-bf94-427351846ed8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/droolsSpring/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/droolsSpring/HelloController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1i9W76nS3fIqFVpMJA4J1GJjgSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -75,18 +86,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601320117799</updated>
-      <workItem from="1601320121579" duration="4582000" />
+      <workItem from="1601320121579" duration="5144000" />
     </task>
+    <task id="LOCAL-00001" summary="spring starting business process working">
+      <created>1601325230948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601325230948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring starting business process working" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring starting business process working" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="419" y="102" key="CommitChangelistDialog2" timestamp="1601325210030">
+    <state x="419" y="102" key="CommitChangelistDialog2" timestamp="1601325230806">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state x="419" y="102" key="CommitChangelistDialog2/-141.-1057.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1601325210030" />
+    <state x="419" y="102" key="CommitChangelistDialog2/-141.-1057.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1601325230806" />
     <state width="1629" height="254" key="GridCell.Tab.0.bottom" timestamp="1601325066184">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
@@ -119,5 +142,9 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state width="1629" height="254" key="GridCell.Tab.1.right/-141.-1057.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1601325066185" />
+    <state x="435" y="237" key="Vcs.Push.Dialog.v2" timestamp="1601325232514">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="435" y="237" key="Vcs.Push.Dialog.v2/-141.-1057.1920.1057/0.23.1680.949@0.23.1680.949" timestamp="1601325232514" />
   </component>
 </project>
