@@ -31,7 +31,7 @@ public class HelloController {
     public ResponseEntity<Loan> runProcess(@RequestBody Loan loan) {
         String groupID = "com.myspace";
         String artifactId = "PNMACTestProject";
-        String version = "1.0.5-SNAPSHOT";
+        String version = "1.0.9-SNAPSHOT";
 
         Map<String, Object> params = new HashMap<String, Object>();
         params.put("loanMain", loan);

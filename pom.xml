@@ -89,7 +89,7 @@
         <dependency>
             <groupId>com.pnmac</groupId>
             <artifactId>pam-data_model</artifactId>
-            <version>1.12.63</version>
+            <version>1.12.74</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
